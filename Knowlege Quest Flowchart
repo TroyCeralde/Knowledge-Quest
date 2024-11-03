@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="2INUC0L9YKXCCDFSLg7q">
-    <mxGraphModel dx="3046" dy="1337" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2738" dy="1170" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,10 +39,10 @@
         <mxCell id="6DX12mzm81CRAoC4KG1Y-13" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="534" y="237" width="44" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-19" value="&lt;b&gt;display &quot;thank you , come back another time&quot;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-19" value="&lt;b&gt;display &quot;thank you , come back another time&quot;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="816" y="217" width="131" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-24" value="&lt;b&gt;user will now begin the quiz!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-24" value="&lt;b&gt;user will now begin the quiz!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="413" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-35" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
             <mxPoint x="400" y="708" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-36" value="&lt;b&gt;display&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;question that to be&amp;nbsp; answered&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-36" value="&lt;b&gt;display&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;question that to be&amp;nbsp; answered&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="606" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-41" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -69,13 +69,13 @@
             <mxPoint x="220" y="924" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-44" value="&lt;b&gt;if answer is correct&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-44" value="&lt;b&gt;if answer is correct&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="354.5" y="720" width="88" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-48" value="&lt;b&gt;display correct answer&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-48" value="&lt;b&gt;display correct answer&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="168" y="788" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-49" value="&lt;b&gt;display answer&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;is wrong, display correct answer&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-49" value="&lt;b&gt;display answer&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;is wrong, display correct answer&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="516" y="792" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DX12mzm81CRAoC4KG1Y-49" target="6DX12mzm81CRAoC4KG1Y-56">
@@ -90,7 +90,7 @@
             <mxPoint x="575.9999999999998" y="959.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-56" value="&lt;b&gt;questions&lt;/b&gt;&lt;div&gt;&lt;b&gt;+= 1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;guesses -=1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-56" value="&lt;b&gt;questions&lt;/b&gt;&lt;div&gt;&lt;b&gt;+= 1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;guesses -=1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="534" y="924" width="84" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DX12mzm81CRAoC4KG1Y-8" target="6DX12mzm81CRAoC4KG1Y-26">
@@ -121,7 +121,7 @@
             <mxPoint x="610" y="539.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-30" value="&lt;b&gt;if&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;questions&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;==50 and score&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;==25&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-30" value="&lt;b&gt;if&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;questions&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;==50 and score&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;==25&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="356" y="494" width="86.5" height="91" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DX12mzm81CRAoC4KG1Y-48" target="6DX12mzm81CRAoC4KG1Y-54">
@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-54" value="&lt;b&gt;score + =1&lt;/b&gt;&lt;div&gt;&lt;b&gt;questions += 1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-54" value="&lt;b&gt;score + =1&lt;/b&gt;&lt;div&gt;&lt;b&gt;questions += 1&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="186" y="900" width="84" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DX12mzm81CRAoC4KG1Y-70" target="6DX12mzm81CRAoC4KG1Y-72">
@@ -163,7 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-70" value="&lt;b&gt;Do&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;you want&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;to play again?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;yes or no?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-70" value="&lt;b&gt;Do&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;you want&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;to play again?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;yes or no?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="328.25" y="984" width="142" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DX12mzm81CRAoC4KG1Y-72" target="6DX12mzm81CRAoC4KG1Y-74">
@@ -179,7 +179,7 @@
             <mxPoint x="399.25" y="1368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-74" value="&lt;b&gt;display&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&quot;Thanks for answering the&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;quiz&quot;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-74" value="&lt;b&gt;display&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&quot;Thanks for answering the&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;quiz&quot;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="339.25" y="1224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DX12mzm81CRAoC4KG1Y-19" target="6DX12mzm81CRAoC4KG1Y-76">
@@ -191,10 +191,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-76" value="&lt;b&gt;End&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-76" value="&lt;b&gt;End&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="368" y="1348" width="72" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-84" value="&lt;b&gt;&lt;span class=&quot;hljs-string&quot;&gt;display&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Quiz Finished&quot;&lt;/span&gt;, &lt;span class=&quot;hljs-string&quot;&gt;&quot;You answered 25 questions! Congratulations!&quot;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-84" value="&lt;b&gt;&lt;span class=&quot;hljs-string&quot;&gt;display&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Quiz Finished&quot;&lt;/span&gt;, &lt;span class=&quot;hljs-string&quot;&gt;&quot;You answered 25 questions! Congratulations!&quot;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="509.5" width="154" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DX12mzm81CRAoC4KG1Y-88" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -216,7 +216,7 @@
             <mxPoint x="400" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DX12mzm81CRAoC4KG1Y-8" value="&lt;b&gt;Are you ready? Yes or no?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6DX12mzm81CRAoC4KG1Y-8" value="&lt;b&gt;Are you ready? Yes or no?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="207" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
