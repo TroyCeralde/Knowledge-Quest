@@ -1,4 +1,4 @@
-quiz_data = [
+knowledge_data = [
     {
         "question": "What is the chemical symbol for gold?",
         "choices": ["Au", "Ag", "Fe", "Pb"],
